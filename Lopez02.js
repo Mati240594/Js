@@ -1,4 +1,4 @@
-<script>
+
  let nombre =prompt("Ingresa tu nombre");
 
 if((nombre !=" Matías ") || (nombre== " mati") || (nombre== "matias")) {
@@ -15,6 +15,3 @@ if ((Numero1 >1000) && (Numero2 > 1000)) {
 } else {
     alert ("No puedes elegir estos números");
 }
-
-
-</script>
